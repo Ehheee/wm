@@ -1,0 +1,40 @@
+
+div#userInfo{
+	text-align: right;
+	border: 1px solid #ccc;
+}
+
+div#leftMenu{
+	padding: 10px;
+	float: left;
+	width: 80px;
+	border: 1px solid #ccc;
+}
+
+div#container{
+	margin-top: 20px;
+}
+
+div#content{
+	float: left;
+	width: 80%;
+	margin-left: 20px;
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+
+div#footer{
+	clear: both;
+}
+
+input {
+	margin: 4px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}

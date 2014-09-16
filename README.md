@@ -1,0 +1,1 @@
+A test work I did for a company. Could be improved in quite a lot of ways, but it was still considered a good test work. The idea was to create a website that would show tv schedules.
